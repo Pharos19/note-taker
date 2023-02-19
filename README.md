@@ -46,4 +46,4 @@ The following images show the web application's appearance and functionality:
 
 
 ## Deployed Website Link
-Check out the deployed app here: [Note Taker]()
+Check out the deployed app here: [Note Taker](https://amazing-garden.herokuapp.com/)
